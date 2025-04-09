@@ -2,12 +2,14 @@ Absolutely! Let’s break it down **step-by-step**, in **simple language**, just
 
 ---
 
-## ✅ **20-Word Summary**  
+## ✅ **20-Word Summary**
+
 AI means making computers smart like humans. It includes learning from data, recognizing patterns, and improving through experiences.
 
 ---
 
-## ✅ **80-Word Explanation**  
+## ✅ **80-Word Explanation**
+
 Artificial Intelligence (AI) is when computers or machines are designed to think, learn, and make decisions like humans. It includes areas like Machine Learning (ML), where machines learn from data, and Deep Learning (DL), where machines use brain-like structures (neural networks) to recognize patterns. There are three types of ML: Supervised (uses labeled data), Unsupervised (finds patterns in unlabeled data), and Reinforcement Learning (learns through trial and error). Examples include chatbots, self-driving cars, and recommendation systems like Netflix or YouTube.
 
 ---
@@ -33,21 +35,21 @@ Now let’s break down **each concept** in your slides clearly, with **solid exa
 
 ### 🧠 **Three Types of AI**
 
-1. **Narrow AI** – Smart at one specific thing (e.g., Google Maps, voice assistants)  
-2. **General AI** – Can think and learn like a human (still under development)  
+1. **Narrow AI** – Smart at one specific thing (e.g., Google Maps, voice assistants)
+2. **General AI** – Can think and learn like a human (still under development)
 3. **Super AI** – Smarter than humans (not real yet, only theoretical)
 
 ---
 
 ### 🧠 AI vs. ML vs. DL (The Family Tree)
 
-| Term | Meaning | Real Example |
-|------|---------|---------------|
-| **AI** | The big idea: making machines smart | Siri talking to you |
-| **ML (Machine Learning)** | Machines learn from data | Email spam filter |
-| **DL (Deep Learning)** | Machines use brain-like networks to understand complex things | Detecting cancer in medical images |
+| Term                      | Meaning                                                       | Real Example                       |
+| ------------------------- | ------------------------------------------------------------- | ---------------------------------- |
+| **AI**                    | The big idea: making machines smart                           | Siri talking to you                |
+| **ML (Machine Learning)** | Machines learn from data                                      | Email spam filter                  |
+| **DL (Deep Learning)**    | Machines use brain-like networks to understand complex things | Detecting cancer in medical images |
 
-💡 *Imagine AI as the whole cake. ML is one slice, and DL is a slice of that slice.*
+💡 _Imagine AI as the whole cake. ML is one slice, and DL is a slice of that slice._
 
 ---
 
@@ -60,7 +62,8 @@ Now let’s break down **each concept** in your slides clearly, with **solid exa
 - **What is it?**  
   The machine learns from **labeled data** — where we already know the right answers.
 
-- **Example**:  
+- **Example**:
+
   - A model learns to **identify if an email is spam or not** by looking at thousands of labeled emails (Spam / Not Spam).
   - Or predicting house prices using past data like size, location, etc.
 
@@ -74,7 +77,8 @@ Now let’s break down **each concept** in your slides clearly, with **solid exa
 - **What is it?**  
   The machine is given **data without any labels** and it tries to find structure or patterns by itself.
 
-- **Example**:  
+- **Example**:
+
   - Grouping customers based on shopping habits.
   - Grouping songs that sound similar.
 
@@ -88,7 +92,8 @@ Now let’s break down **each concept** in your slides clearly, with **solid exa
 - **What is it?**  
   The machine (called an **agent**) learns by trying actions and getting **rewards** for right moves and **penalties** for wrong ones.
 
-- **Example**:  
+- **Example**:
+
   - A robot learning how to walk.
   - An AI playing chess or video games — it learns by winning or losing points.
 
@@ -100,11 +105,11 @@ Now let’s break down **each concept** in your slides clearly, with **solid exa
 
 ### 🔁 Summary Table
 
-| Type of Learning | Data | Goal | Example |
-|------------------|------|------|---------|
-| **Supervised**   | Labeled | Predict outcomes | Email spam filter |
-| **Unsupervised** | Unlabeled | Find patterns | Customer segmentation |
-| **Reinforcement**| No data at start | Learn by interacting | Self-driving car, game-playing AI |
+| Type of Learning  | Data             | Goal                 | Example                           |
+| ----------------- | ---------------- | -------------------- | --------------------------------- |
+| **Supervised**    | Labeled          | Predict outcomes     | Email spam filter                 |
+| **Unsupervised**  | Unlabeled        | Find patterns        | Customer segmentation             |
+| **Reinforcement** | No data at start | Learn by interacting | Self-driving car, game-playing AI |
 
 ---
 
